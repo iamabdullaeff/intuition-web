@@ -1,13 +1,21 @@
 {
-	"@metadata": [],
-	"current-language": "Seçdiyiniz dil",
-	"settings-legend": "Nizamlamalar",
+	"@metadata": {
+		"authors": [ "I'm Abdullaeff" , "Abdullaeff Creative Agency" ]
+	},
+	"title": "Beynəlmiləlləşmə",
+	"fullname": "beynəlmiləlləşmə üçün alətlər",
+	"current-settings": "Cari parametrlər",
+	"current-language": "Seçilmiş dil",
+	"settings-legend": "Parametrlər",
 	"choose-language": "Dil seçin",
-	"clear-cookies": "kökələri təmizlə",
-	"cookie-expiration": "kökənin bitmə vaxtı",
-	"tab-overview": "Xülasə",
-	"tab-settings": "Nizamlamalar",
-	"tab-about": "Haqqında",
+	"clear-cookies": "Keşi təmizlə",
+	"renew-cookies": "Keşi yenilə",
+	"cookie-expiration": "Keş müddəti",
+	"clearcookies-success": "Keş uğurla silindi.",
+	"renewcookies-success": "Keş uğurla yeniləndi! Hamınız növbəti $1 üçün təyin olunursunuz.",
+	"tab-overview": "Baxış",
+	"tab-settings": "Parametrlər",
+	"tab-about": "Haqqımızda",
 	"tab-demo": "Demo",
-	"usage": "Intuition vasitəsilə tərcümə edilmiş alətlər."
+	"usage": "Intuition tərəfindən tərcümə olunan vasitələr."
 }
